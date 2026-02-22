@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "email": "24ds2000144@ds.study.iitm.ac.in",
+    "version": "8347270e"
+  },
+  "products": [
+    {"id": "prod-8347270e-001", "name": "Pro Item 1", "category": "home", "price": 40.69, "stock": 103, "rating": 1.5},
+    {"id": "prod-8347270e-002", "name": "Pro Item 2", "category": "electronics", "price": 168.5, "stock": 25, "rating": 2.4},
+    {"id": "prod-8347270e-003", "name": "Standard Item 3", "category": "books", "price": 335.19, "stock": 120, "rating": 3.1},
+    {"id": "prod-8347270e-004", "name": "Pro Item 4", "category": "electronics", "price": 375.6, "stock": 104, "rating": 4.9},
+    {"id": "prod-8347270e-005", "name": "Standard Item 5", "category": "sports", "price": 384.04, "stock": 70, "rating": 2.9},
+    {"id": "prod-8347270e-006", "name": "Premium Item 6", "category": "clothing", "price": 111.49, "stock": 16, "rating": 4.3},
+    {"id": "prod-8347270e-007", "name": "Elite Item 7", "category": "sports", "price": 46.39, "stock": 39, "rating": 2.5},
+    {"id": "prod-8347270e-008", "name": "Standard Item 8", "category": "electronics", "price": 486.2, "stock": 113, "rating": 3.7},
+    {"id": "prod-8347270e-009", "name": "Pro Item 9", "category": "electronics", "price": 169.71, "stock": 80, "rating": 3.2},
+    {"id": "prod-8347270e-010", "name": "Premium Item 10", "category": "books", "price": 167.39, "stock": 56, "rating": 2.5},
+    {"id": "prod-8347270e-011", "name": "Standard Item 11", "category": "sports", "price": 130.15, "stock": 183, "rating": 3.5},
+    {"id": "prod-8347270e-012", "name": "Premium Item 12", "category": "books", "price": 392.21, "stock": 94, "rating": 2},
+    {"id": "prod-8347270e-013", "name": "Basic Item 13", "category": "clothing", "price": 368.55, "stock": 133, "rating": 4.4},
+    {"id": "prod-8347270e-014", "name": "Premium Item 14", "category": "electronics", "price": 104.52, "stock": 178, "rating": 3},
+    {"id": "prod-8347270e-015", "name": "Premium Item 15", "category": "electronics", "price": 233.93, "stock": 129, "rating": 4.6}
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 3,
+      "inventoryValue": 52509.46
+    }
+  }
+}
